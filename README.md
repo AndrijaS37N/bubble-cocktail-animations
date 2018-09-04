@@ -1,7 +1,7 @@
 # bubble-cocktail-animations
 <h3>A second year university Java animation project:</h3>
 <ul style="list-style-type:circle">
-  <li>Made for the CS103 Algorithms & Data Structures course</li>
+  <li>Made for the <i>CS103 Algorithms & Data Structures</i> course</li>
   <li>First of three projects made for that course</li>
   <li>Full bubble sort & cocktail sort animations</li>
   <li>Has an ascending mode & a descending mode</li>
