@@ -8,7 +8,7 @@
 </ul>
 
 ###### Project snapshots:
-<p>View 1</p>
+<h6>View 1</h6>
 <img src="screen-shots/view-1.png" alt="View 1">
 <p>View 2</p>
 <img src="screen-shots/view-2.png" alt="View 2">
