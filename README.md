@@ -6,7 +6,7 @@
   <li>Full bubble sort & cocktail sort animations.</li>
   <li>Has an ascending mode & a descending mode.</li>
 </ul>
-<h3>Project snapshots:</h3>
+#### Project snapshots:
 <p>View 1</p>
 <img src="screen-shots/view-1.png" alt="View 1">
 <p>View 2</p>
