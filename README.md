@@ -7,8 +7,8 @@
   <li>Has an ascending mode & a descending mode.</li>
 </ul>
 
-###### Project snapshots:
-<h6>View 1</h6>
+#### Project snapshots:
+<p>View 1</p>
 <img src="screen-shots/view-1.png" alt="View 1">
 <p>View 2</p>
 <img src="screen-shots/view-2.png" alt="View 2">
