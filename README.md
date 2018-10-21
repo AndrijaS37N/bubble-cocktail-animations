@@ -3,8 +3,8 @@
 <ul>
   <li>Made for the <b>CS103 Algorithms & Data Structures</b> course. 🍏</li>
   <li>First of three projects made for that course.</li>
-  <li>Full bubble sort & cocktail sort animations.</li>
-  <li>Has an ascending mode & a descending mode.</li>
+  <li>Full bubble sort and cocktail sort animations.</li>
+  <li>Has an ascending mode and a descending mode.</li>
 </ul>
 
 #### Project snapshots:
