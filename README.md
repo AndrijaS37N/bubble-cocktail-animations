@@ -1,4 +1,4 @@
-# bubble-cocktail-animations 🚦
+# bubble-cocktail-animations
 <h3>A second year university Java animation project.</h3>
 <ul>
   <li>Made for the <b>CS103 Algorithms & Data Structures</b> course. 🍏</li>
