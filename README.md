@@ -9,7 +9,6 @@
 
 #### Project snapshots:
 <h6>View 1</h6>
-<caption>HelloWorlds</caption>
 <img src="screen-shots/view-1.png" alt="View 1">
 <h6>View 2</h6>
 <img src="screen-shots/view-2.png" alt="View 2">
