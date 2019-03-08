@@ -1,7 +1,5 @@
 package program;
 
-import java.util.Random;
-
 import javafx.animation.FadeTransition;
 import javafx.animation.Timeline;
 import javafx.animation.TranslateTransition;
@@ -24,6 +22,11 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import javafx.util.Duration;
+
+import java.util.Random;
+
+// IntelliJ IDEA 2019 project update -> SDK 1.8 Java -> code not changed
+// for users of this editor -> A JavaFX application -> set the src folder as the source folder in the project structure setting
 
 public class Main extends Application {
 
