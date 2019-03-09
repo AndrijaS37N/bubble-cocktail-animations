@@ -52,8 +52,8 @@ public class Main extends Application {
         @Override
         protected Task createTask() {
 
-            if (!rb2.isSelected()) return taskCreator1();
-            else return taskCreator2();
+            if (!rb2.isSelected()) return bubbleSortTask();
+            else return cocktailSortTask();
         }
     };
 
@@ -107,21 +107,21 @@ public class Main extends Application {
         double x1 = list.get(one).getTranslateX();
         double x2 = list.get(two).getTranslateX();
 
-        TranslateTransition translateTransition = new TranslateTransition();
-        translateTransition.setNode(list.get(one));
-        translateTransition.setDuration(Duration.millis(1000));
-        translateTransition.setToX(x2);
+        TranslateTransition translateTransitionFirst = new TranslateTransition();
+        translateTransitionFirst.setNode(list.get(one));
+        translateTransitionFirst.setDuration(Duration.millis(1000));
+        translateTransitionFirst.setToX(x2);
 
-        TranslateTransition translateTransition2 = new TranslateTransition();
-        translateTransition2.setNode(list.get(two));
-        translateTransition2.setDuration(Duration.millis(1000));
-        translateTransition2.setToX(x1);
+        TranslateTransition translateTransition_2 = new TranslateTransition();
+        translateTransition_2.setNode(list.get(two));
+        translateTransition_2.setDuration(Duration.millis(1000));
+        translateTransition_2.setToX(x1);
 
-        translateTransition2.play();
-        translateTransition.play();
+        translateTransition_2.play();
+        translateTransitionFirst.play();
     }
 
-    private Task taskCreator1() { // bubble sort
+    private Task bubbleSortTask() { // bubble sort
 
         return new Task() {
 
@@ -180,6 +180,7 @@ public class Main extends Application {
         };
     }
 
+    // bubble sort function
     private void manageBubbleSwap(int i, int k) throws Exception {
 
         Thread.sleep(1500);
@@ -189,7 +190,7 @@ public class Main extends Application {
         list.set(k, temp);
     }
 
-    private Task taskCreator2() { // cocktail sort
+    private Task cocktailSortTask() { // cocktail sort
 
         return new Task() {
 
@@ -200,7 +201,7 @@ public class Main extends Application {
                 rb1.setDisable(true);
                 rb2.setDisable(true);
 
-//                boolean swapped = true;
+                // boolean swapped = true;
                 int i = 0;
                 int j = list.size() - 1;
 
@@ -283,6 +284,7 @@ public class Main extends Application {
         };
     }
 
+    // cocktail swap function #1
     public boolean manageFrontCoctailSwap(int k) throws Exception {
 
         Thread.sleep(1500);
@@ -293,6 +295,7 @@ public class Main extends Application {
         return true;
     }
 
+    // cocktail swap function #2
     public boolean manageBackCoctailSwap(int k) throws Exception {
 
         Thread.sleep(1500);
