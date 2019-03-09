@@ -112,12 +112,12 @@ public class Main extends Application {
         translateTransitionFirst.setDuration(Duration.millis(1000));
         translateTransitionFirst.setToX(x2);
 
-        TranslateTransition translateTransition_2 = new TranslateTransition();
-        translateTransition_2.setNode(list.get(two));
-        translateTransition_2.setDuration(Duration.millis(1000));
-        translateTransition_2.setToX(x1);
+        TranslateTransition translateTransitionSecond = new TranslateTransition();
+        translateTransitionSecond.setNode(list.get(two));
+        translateTransitionSecond.setDuration(Duration.millis(1000));
+        translateTransitionSecond.setToX(x1);
 
-        translateTransition_2.play();
+        translateTransitionSecond.play();
         translateTransitionFirst.play();
     }
 
