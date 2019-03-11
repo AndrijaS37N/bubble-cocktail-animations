@@ -6,6 +6,7 @@
   <li>Full bubble sort and cocktail sort animations.</li>
   <li>Has an ascending mode and a descending mode.</li>
   <li>Built in NetBeans IDE, reworked in IntelliJ IDEA.</li>
+  <li>Possible code redundancies that have not been mended yet.</li>
 </ul>
 
 #### Project snapshots:
