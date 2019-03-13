@@ -69,18 +69,22 @@ public class Main extends Application {
         text.setFont(bigFont);
         text.setFill(blue);
         list = listMaking();
+
         // exit
         b2.setOnAction(event -> System.exit(0));
         // start
         b1.setOnAction(event -> thread.start());
+
         group.getChildren().addAll(list);
         pane.setCenter(group);
+
         vbox.setAlignment(Pos.CENTER);
         hbox.getChildren().addAll(b1, b2);
         hbox.setAlignment(Pos.CENTER);
         comboHBox.setAlignment(Pos.CENTER);
         comboHBox.getChildren().addAll(rb1, rb2);
         vbox.getChildren().addAll(text, pane, comboHBox, hbox);
+
         Scene scene = new Scene(vbox, 800, 400);
         frame.setTitle("Sorting animations");
         frame.setScene(scene);
@@ -91,14 +95,17 @@ public class Main extends Application {
     private void swapAnimation(int one, int two) { // transitions for rectangles
         double x1 = list.get(one).getTranslateX();
         double x2 = list.get(two).getTranslateX();
+
         TranslateTransition translateTransitionFirst = new TranslateTransition();
         translateTransitionFirst.setNode(list.get(one));
         translateTransitionFirst.setDuration(Duration.millis(1000));
         translateTransitionFirst.setToX(x2);
+
         TranslateTransition translateTransitionSecond = new TranslateTransition();
         translateTransitionSecond.setNode(list.get(two));
         translateTransitionSecond.setDuration(Duration.millis(1000));
         translateTransitionSecond.setToX(x1);
+
         translateTransitionSecond.play();
         translateTransitionFirst.play();
     }
