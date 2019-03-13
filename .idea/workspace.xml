@@ -63,7 +63,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/program/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="-2526">
               <caret line="77" column="41" lean-forward="true" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -260,16 +260,15 @@
       <workItem from="1552087280230" duration="299000" />
       <workItem from="1552087805919" duration="253000" />
       <workItem from="1552132806379" duration="293000" />
-      <workItem from="1552490161044" duration="1821000" />
+      <workItem from="1552490161044" duration="1859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3968000" />
+    <option name="totallyTimeSpent" value="4006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -281,8 +280,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32827586" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827586" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2657512" />
@@ -396,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/program/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="-2526">
           <caret line="77" column="41" lean-forward="true" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
