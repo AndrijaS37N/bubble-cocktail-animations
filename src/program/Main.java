@@ -70,9 +70,9 @@ public class Main extends Application {
         text.setFill(blue);
         list = listMaking();
 
-        // exit
+        // exit lambda
         b2.setOnAction(event -> System.exit(0));
-        // start
+        // start lambda
         b1.setOnAction(event -> thread.start());
 
         group.getChildren().addAll(list);
@@ -128,7 +128,6 @@ public class Main extends Application {
                                 swapAnimation(i, k);
                                 manageBubbleSwap(i, k);
                             }
-
                         } else {
                             if (list.get(i).getHeight() > list.get(k).getHeight()) {
                                 swapAnimation(i, k);
@@ -180,7 +179,6 @@ public class Main extends Application {
                                 swapAnimation(k, k + 1);
                                 swapped = manageFrontCoctailSwap(k);
                             }
-
                         } else {
                             if (list.get(k).getHeight() > list.get(k + 1).getHeight()) {
                                 swapAnimation(k, k + 1);
@@ -200,7 +198,6 @@ public class Main extends Application {
                                     swapAnimation(k, k - 1);
                                     swapped = manageBackCoctailSwap(k);
                                 }
-
                             } else {
                                 if (list.get(k).getHeight() < list.get(k - 1).getHeight()) {
                                     swapAnimation(k, k - 1);
