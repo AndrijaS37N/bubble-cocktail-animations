@@ -1,7 +1,7 @@
 # Bubble Cocktail Animations
-<h4>A second year university Java animation project.</h4>
+<h3>A second year university Java animation project.</h3>
 <ul>
-  <li>Made for the <b>CS103 Algorithms & Data Structures</b> course. 🍏</li>
+  <li>Made for the <b>CS103 Algorithms & Data Structures</b> course.</li>
   <li>First of three projects made for that course.</li>
   <li>Full bubble sort and cocktail sort animations.</li>
   <li>Has an ascending mode and a descending mode.</li>
@@ -13,12 +13,12 @@
 <h6>Sorting View</h6>
 <kbd><img src="snapshots/view-1.png" alt="View 1"></kbd>
 <h6>Finishing Sorting</h6>
-<img src="snapshots/view-2.png" alt="View 2">
+<kbd><img src="snapshots/view-2.png" alt="View 2"></kbd>
 <h6>Finished Sorting</h6>
-<img src="snapshots/view-3.png" alt="View 3">
+<kbd><img src="snapshots/view-3.png" alt="View 3"></kbd>
 <h6>Swapping Animation</h6>
-<img src="snapshots/view-4.png" alt="View 4">
+<kbd><img src="snapshots/view-4.png" alt="View 4"></kbd>
 <h6>Starting Menu</h6>
-<img src="snapshots/view-5.png" alt="View 5">
+<kbd><img src="snapshots/view-5.png" alt="View 5"></kbd>
 
 
