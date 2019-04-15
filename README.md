@@ -10,15 +10,15 @@
 </ul>
 
 #### Project snapshots:
-<h6>Sorting View <span style="font-size: 20px;">&#x2198;</span></h6>
+<h6>Sorting View &#x2198;</h6>
 <kbd><img src="snapshots/view-1.png" alt="View 1"></kbd>
-<h6>Finishing Sorting &darr;</h6>
+<h6>Finishing Sorting &#x2198;</h6>
 <kbd><img src="snapshots/view-2.png" alt="View 2"></kbd>
-<h6>Finished Sorting &darr;</h6>
+<h6>Finished Sorting &#x2198;</h6>
 <kbd><img src="snapshots/view-3.png" alt="View 3"></kbd>
-<h6>Swapping Animation &darr;</h6>
+<h6>Swapping Animation &#x2198;</h6>
 <kbd><img src="snapshots/view-4.png" alt="View 4"></kbd>
-<h6>Starting Menu &darr;</h6>
+<h6>Starting Menu &#x2198;</h6>
 <kbd><img src="snapshots/view-5.png" alt="View 5"></kbd>
 
 
