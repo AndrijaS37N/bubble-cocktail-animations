@@ -10,7 +10,7 @@
 </ul>
 
 #### Project snapshots:
-<h6>Sorting View &#8615;</h6>
+<h6>Sorting View <span style="font-size: 20px;">&#8681;</span></h6>
 <kbd><img src="snapshots/view-1.png" alt="View 1"></kbd>
 <h6>Finishing Sorting &darr;</h6>
 <kbd><img src="snapshots/view-2.png" alt="View 2"></kbd>
