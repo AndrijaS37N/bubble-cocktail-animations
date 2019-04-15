@@ -11,14 +11,14 @@
 
 #### Project snapshots:
 <h6>Sorting View &#x2198;</h6>
-<kbd><img src="snapshots/view-1.png" alt="View 1"></kbd>
+<img src="snapshots/view-1.png" alt="View 1">
 <h6>Finishing Sorting &#x2198;</h6>
-<kbd><img src="snapshots/view-2.png" alt="View 2"></kbd>
+<img src="snapshots/view-2.png" alt="View 2">
 <h6>Finished Sorting &#x2198;</h6>
-<kbd><img src="snapshots/view-3.png" alt="View 3"></kbd>
+<img src="snapshots/view-3.png" alt="View 3">
 <h6>Swapping Animation &#x2198;</h6>
-<kbd><img src="snapshots/view-4.png" alt="View 4"></kbd>
+<img src="snapshots/view-4.png" alt="View 4">
 <h6>Starting Menu &#x2198;</h6>
-<kbd><img src="snapshots/view-5.png" alt="View 5"></kbd>
+<img src="snapshots/view-5.png" alt="View 5">
 
 
