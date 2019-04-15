@@ -1,5 +1,5 @@
-# bubble-cocktail-animations
-<h3>A second year university Java animation project.</h3>
+# Bubble Cocktail Animations
+<h4>A second year university Java animation project.</h4>
 <ul>
   <li>Made for the <b>CS103 Algorithms & Data Structures</b> course. 🍏</li>
   <li>First of three projects made for that course.</li>
@@ -10,15 +10,15 @@
 </ul>
 
 #### Project snapshots:
-<h6>View 1</h6>
-<img src="snapshots/view-1.png" alt="View 1">
-<h6>View 2</h6>
+<h6>Sorting View</h6>
+<kbd><img src="snapshots/view-1.png" alt="View 1"></kbd>
+<h6>Finishing Sorting</h6>
 <img src="snapshots/view-2.png" alt="View 2">
-<h6>View 3</h6>
+<h6>Finished Sorting</h6>
 <img src="snapshots/view-3.png" alt="View 3">
-<h6>View 4</h6>
+<h6>Swapping Animation</h6>
 <img src="snapshots/view-4.png" alt="View 4">
-<h6>View 5</h6>
+<h6>Starting Menu</h6>
 <img src="snapshots/view-5.png" alt="View 5">
 
 
